@@ -1,0 +1,16 @@
+sku,name,price,stock,category
+SKU-1001,Precision Widget,12.50,42,Hardware
+SKU-1002,Compact Gadget,8.75,18,Hardware
+SKU-1003,Stainless Bracket,5.20,65,Hardware
+SKU-1004,Aluminum Rail,19.95,24,Hardware
+SKU-1005,USB-C Cable 1m,6.99,120,Electronics
+SKU-1006,USB-C Cable 2m,9.99,75,Electronics
+SKU-1007,Wireless Mouse,24.50,31,Electronics
+SKU-1008,Mechanical Keyboard,89.00,14,Electronics
+SKU-1009,Desk Lamp,34.95,27,Furniture
+SKU-1010,Monitor Stand,58.00,11,Furniture
+SKU-1011,Shipping Box Small,0.85,200,Packaging
+SKU-1012,Shipping Box Large,1.65,80,Packaging
+SKU-1013,Blue Marker,1.25,96,Office
+SKU-1014,Notebook A5,3.40,48,Office
+SKU-1015,Ergonomic Mat,29.99,9,Office
